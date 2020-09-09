@@ -10,5 +10,7 @@ When I hear of the word 'robot', I tihink of something that has been created as 
 
 Something planned ahead, made to evoke emotions and convey a message to the audience.
 
+[Link](https://www.tinkercad.com/things/kn3QesZdLRZ-test-1/editel) to my Tinkercad.
+
 ## Lesson 2
 
