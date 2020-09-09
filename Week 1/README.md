@@ -1,4 +1,4 @@
-# Lesson notes & answers to questions
+# Lesson Notes & Answers to Questions
 
 ## Lesson 1
 
