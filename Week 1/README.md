@@ -6,3 +6,5 @@
 
 **Q:** What is a performance?
 
+## Lesson 2
+
