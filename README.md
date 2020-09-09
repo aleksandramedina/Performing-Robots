@@ -3,9 +3,8 @@
 
 Welcome to my **Performing Robots** repository. Here I will post my work from the class.
 
-**Currently working on 👩🏼‍💻 :*
+<b>Currently working on:</b>👩🏼‍💻
+- [x] Week 1 Lecture 1 class recording
+- [] Week 1 Lecture 2 class recording
 
--[x] Week 1 Lesson 1 class recording,
-
--[ ] Week 1 Lesson 2 class recording.
 
