@@ -14,4 +14,4 @@ I wasn't successful in making this. For some reason button 2 by default was alwa
 
 3. Schematic.
 
-![Schematic](/media/sept14schematic.png)
+![Schematic](/media/sept14schematic.png) 
