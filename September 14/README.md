@@ -10,7 +10,7 @@ I wasn't successful in making this. For some reason button 2 by default was alwa
 
 2. Screenshot of circuit.
 
-![Screenshot](/images/sept14screenshot.png)
+![Screenshot](/media/sept14screenshot.png)
 
 3. Schematic.
 
