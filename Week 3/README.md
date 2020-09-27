@@ -17,4 +17,4 @@
 
 What an interesting talk! I'm now definitely a fan of his (can't believe I hadn't heard of him earlier!).
 
-I think my favorite remark from his talk was when he spoke about what makes us human. It's essentially the same things that constitute the making and ejoying of art.
+I think my favorite remark from his talk was when he spoke about what makes us human. It's essentially the same things that constitute the making and enjoying of art.
