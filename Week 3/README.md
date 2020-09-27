@@ -28,3 +28,9 @@ Notes:
 
 I personally believe it comes from a place of not truly understanding it. We fear the unknown, the ambiguous and the unpredictable.
 I thought it was an interesting point that technology is an extension of us so we perceive it in a similar way we perceive ourselves and the world around us.
+
+- Uncanny valley curve 
+- What different meaning do we get of the play knowing it's a robot performing?
+
+Watching a robot makes us more aware of what makes us human. There's a direct comparison right in front of our eyes. Interesting: people trusted more a robot therapist than a human therapist.
+
