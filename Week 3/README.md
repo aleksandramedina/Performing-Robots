@@ -25,5 +25,6 @@ I think my favorite remark from his talk was when he spoke about what makes us h
 Notes:
 - Tendency to ampromorphise things vs the fear of machines
 - Why do we fear robots if we tend to ampromorphise them?
+
 I personally believe it comes from a place of not truly understanding it. We fear the unknown, the ambiguous and the unpredictable.
 I thought it was an interesting point that technology is an extension of us so we perceive it in a similar way we perceive ourselves and the world around us.
