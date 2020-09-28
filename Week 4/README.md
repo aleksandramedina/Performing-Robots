@@ -5,6 +5,21 @@
 - I found different examples on how to write display codes for OLED. Which ones are the correct ones? I based my code off of [this one](https://www.instructables.com/id/Fun-With-OLED-Display-and-Arduino/).
 - How much of the #include and #define code from the original example are we supposed to leave?
 
+The prompt:
+
+
+> - Write a program that uses the button and the OLED display
+>	- You will need to combine elements from the button example
+>		(Example1_PrintButtonStatus) and the OLED example (SSD1306_128x64_i2C).
+>	- In `setup()`, your program should display the word "Ready"
+>	- In `loop()`, your program should check to see if the button is pressed
+>		- If the button is pressed 
+>			- Count how many times the button is pressed
+>			- Change the text to say "Pressed"
+>		- When the button is released
+>			- Change the text to display how many times the button was pressed
+
+
 My code is here:
 
 ```javascript
