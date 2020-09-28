@@ -5,7 +5,7 @@
 - I found different examples on how to write display codes for OLED. Which ones are the correct ones? I based my code off of [this one](https://www.instructables.com/id/Fun-With-OLED-Display-and-Arduino/).
 - How much of the #include and #define code from the original example are we supposed to leave?
 
-The prompt:
+**The prompt:**
 
 
 > - Write a program that uses the button and the OLED display
@@ -20,7 +20,7 @@ The prompt:
 >			- Change the text to display how many times the button was pressed
 
 
-My code is here:
+**My code is here:**
 
 ```javascript
 // not sure if this initialization needs to be in every code? Left it from the example sketch.
