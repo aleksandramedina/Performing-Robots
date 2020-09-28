@@ -7,6 +7,7 @@
     - Idea: make an ice cream car robot
 - Example code from class:
 
+```javascript
 #define LEFT_MOTOR 0
 #define RIGHT_MOTOR 1
 
@@ -34,4 +35,4 @@ void loop()
   while (1)
     ;
 }
-
+```
