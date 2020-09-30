@@ -42,7 +42,7 @@ void loop()
 
 **My Notes**
 
->Dramaturgy is a comprehensive exploration of the context in which the play resides... the >physical, social, political, and economic environment in which the action takes place, the >psychological underpinnings of the characters, the various metaphrical expression in the play >of thematic concerns; as well as on the technical consideration of the play as a piece of >writing: structure, rhythm, flow, even individual word choices.
+>Dramaturgy is a comprehensive exploration of the context in which the play resides... the physical, social, political, and economic environment in which the action takes place, the psychological underpinnings of the characters, the various metaphrical expression in the play of thematic concerns; as well as on the technical consideration of the play as a piece of writing: structure, rhythm, flow, even individual word choices.
 
 **Context, intention, & impact**
 
