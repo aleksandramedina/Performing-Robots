@@ -40,7 +40,69 @@ void loop()
 
 ### Talk with Tegan
 
+**My Notes**
 
+>Dramaturgy is a comprehensive exploration of the context in which the play resides... the >physical, social, political, and economic environment in which the action takes place, the >psychological underpinnings of the characters, the various metaphrical expression in the play >of thematic concerns; as well as on the technical consideration of the play as a piece of >writing: structure, rhythm, flow, even individual word choices.
+
+**Context, intention, & impact**
+
+- What do you want to say? / What question are you asking?
+- How does the structure of the performance support the intention?
+- Who is your audience?
+- What do you want your audience to experience?
+- Who / what is included or empowered?
+- Who / what is excluded or erased?
+- What is the relationship between the "characters" and the action?
+- Why this work now?
+
+**Intention != impact**
+
+**Anne Bogart & Tina Landau's Viewpoints**
+
+- Time
+    -Tempo
+    -Duration
+    -Kinesthetic Response
+        - the timing in which you respond to the external events of movement and sound
+    -Repetition
+ - Space
+    -Shape
+        - The contour or outline of a body. object in space
+            - lines
+            - curves
+            - combination
+        - stationary or in movement
+        - can be made in 3 forms
+            - the object in space
+            - the object in relationship to architecture (making a shape)
+            - the object in a relationship to other objects (making a shape)
+    -Gesture
+        - A shape with a beginning, middle, and end
+            - Behavioral gesture
+                - concrete, physical, observable in reality
+                - private & public
+            - Expressive gesture
+                - emotion, desire, idea, or value
+                - abstrace or symbolic
+    -Architecture
+        - the physical environment in which you are working and how awareness of it affects movement
+            - solid mass
+            - texture
+            - light
+            - color
+            - sound
+    -Spatial Relationship
+    -Topography
+
+**Composition** a method for:
+- creating new work
+- practicing how to select and arrange separate componenets to create a cohesive experience
+- generating, defining, and developing ideas
+- revealing to ourselves our hidden thoughts
+    - impulses and ideas emerging from limitations on time and/ or scale
+- strengthening trust in our impulses (our creative voice)
+- being in dialogue with different forms (engaging interdisciplinarity)
+- practicing our art
 
 ### Liyan's Presentation
 
