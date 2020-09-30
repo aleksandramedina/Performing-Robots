@@ -60,13 +60,13 @@ void loop()
 **Anne Bogart & Tina Landau's Viewpoints**
 
 - Time
-    -Tempo
-    -Duration
-    -Kinesthetic Response
+    - Tempo
+    - Duration
+    - Kinesthetic Response
         - the timing in which you respond to the external events of movement and sound
-    -Repetition
+    - Repetition
  - Space
-    -Shape
+    - Shape
         - The contour or outline of a body. object in space
             - lines
             - curves
@@ -76,7 +76,7 @@ void loop()
             - the object in space
             - the object in relationship to architecture (making a shape)
             - the object in a relationship to other objects (making a shape)
-    -Gesture
+    - Gesture
         - A shape with a beginning, middle, and end
             - Behavioral gesture
                 - concrete, physical, observable in reality
@@ -84,15 +84,15 @@ void loop()
             - Expressive gesture
                 - emotion, desire, idea, or value
                 - abstrace or symbolic
-    -Architecture
+    - Architecture
         - the physical environment in which you are working and how awareness of it affects movement
             - solid mass
             - texture
             - light
             - color
             - sound
-    -Spatial Relationship
-    -Topography
+    - Spatial Relationship
+    - Topography
 
 **Composition** a method for:
 - creating new work
