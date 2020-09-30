@@ -4,7 +4,6 @@
     - full description of what's inside the kit
     - the receipt of purchase
 - How can I do next week's assignment? Can I turn it in late?
-    - Idea: make an ice cream car robot
 - Example code from class:
 
 ```javascript
