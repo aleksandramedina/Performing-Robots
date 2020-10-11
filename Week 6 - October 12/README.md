@@ -12,3 +12,10 @@ It stops and displays "Found Toby. Good Boy."
 
 Unfortunately, my mp3 component is broken so I commented out the code that would have generated audio. 
 The idea was to have a recording of barking dogs to create interest in my dog to approach the robot.
+
+[Video](https://www.youtube.com/watch?v=jgtgVriDwmA)
+
+Images:
+
+![treat dispenser 1](/media/td1.JPG)
+![treat dispenser 2](/media/td2.JPG)
