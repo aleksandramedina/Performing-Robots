@@ -15,6 +15,9 @@ The idea was to have a recording of barking dogs to create interest in my dog to
 
 [Video](https://www.youtube.com/watch?v=jgtgVriDwmA)
 
+Overall, the robot successfully delivered the treat (although I had to program it to go to a specific room so I had to make sure my dog was in the right room).
+My dog was a little scared / suspicious of my contraption so he wouldn't eat the treat at first but eventually **trusted** the robot and took the treat!
+
 Images:
 
 ![treat dispenser 1](/media/td1.JPG)
