@@ -12,6 +12,7 @@ While the play does not directly show us how Ophelia dies, we hear Hamlet's moth
 In Act IV scene vii, Gertrude announces to Laertes and Claudius that Ophelia had drowned. She was perched on the bough of a tree with all her flowers when the limb broke and deposited her into the water. 
 
 
+
 ... Her clothes spread wide;
 
 And, mermaid-like, awhile they bore her up:
@@ -29,6 +30,7 @@ Till that her garments, heavy with their drink,
 Pull'd the poor wretch from her melodious lay
 
 To muddy death.
+
 
 
 Ophelia drowned because she fell into the water and did not have the will, in her grief,  to save herself. 
