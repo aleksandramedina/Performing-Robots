@@ -13,13 +13,21 @@ In Act IV scene vii, Gertrude announces to Laertes and Claudius that Ophelia had
 
 
 ... Her clothes spread wide;
+
 And, mermaid-like, awhile they bore her up:
+
 Which time she chanted snatches of old tunes;
+
 As one incapable of her own distress,
+
 Or like a creature native and indued
+
 Unto that element: but long it could not be
+
 Till that her garments, heavy with their drink,
+
 Pull'd the poor wretch from her melodious lay
+
 To muddy death.
 
 
