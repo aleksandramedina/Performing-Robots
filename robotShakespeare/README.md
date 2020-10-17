@@ -41,3 +41,6 @@ I wanted to choose a scene that has a dramatic movement incorporated in it, thus
 I have decided to use my bathtub as the river, fill it with pillows and cover with a blue sheet (both for a visual effect and to make sure nothing breaks, when my robot falls from the edge).
 
 **Q3:** Videos / photos.
+
+![ophelia closeup](/media/ophelia-closeup.JPG)
+![ophelia river](/media/ophelia-river.JPG)
