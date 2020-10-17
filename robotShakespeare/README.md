@@ -38,6 +38,6 @@ Ophelia drowned because she fell into the water and did not have the will, in he
 **Q2:** Describe your idea.
 
 I wanted to choose a scene that has a dramatic movement incorporated in it, thus I chose Ophelia falling from a tree (easy to replicate with my robot's limited abilities). 
-I have decided to use my bathtub as the water, fill it with pillows and cover with a blue sheet (both for a visual effect and to make sure nothing breaks, when my robot falls from the ledge).
+I have decided to use my bathtub as the river, fill it with pillows and cover with a blue sheet (both for a visual effect and to make sure nothing breaks, when my robot falls from the edge).
 
 **Q3:** Videos / photos.
