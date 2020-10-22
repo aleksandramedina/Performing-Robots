@@ -55,3 +55,9 @@ I chose to dress Ophelia in all white for two resons. She was the love interest 
 
 ![ophelia1](/media/ophelia1.JPG)
 ![ophelia2](/media/ophelia2.JPG)
+
+
+**Process**
+
+![process1](/media/op1.JPG)
+![process2](/media/op2.JPG)
