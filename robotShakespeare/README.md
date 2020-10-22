@@ -44,4 +44,6 @@ I have decided to use my bathtub as the river, fill it with pillows and cover wi
 
 ![ophelia closeup](/media/ophelia-closeup.JPG)
 ![ophelia river](/media/ophelia-river.JPG)
-[video](https://youtu.be/xRX186J52GM)
+
+
+CLick [here](https://youtu.be/xRX186J52GM) for video.
