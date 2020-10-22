@@ -46,4 +46,12 @@ I have decided to use my bathtub as the river, fill it with pillows and cover wi
 ![ophelia river](/media/ophelia-river.JPG)
 
 
-CLick [here](https://youtu.be/xRX186J52GM) for video.
+Click [here](https://youtu.be/xRX186J52GM) for video.
+
+
+**Finished Ophelia**
+
+I chose to dress Ophelia in all white for two resons. She was the love interest of Hamlet and was portrayed as the pure counterbalance to all ill that was happening in Hamlet's life. Secondly, since we never 'see' her commit suicide (or accidentally drown - open to interpretation), I imagined her to dress in her most beautiful clothes (possibly even a wedding dress she had picked out) and drown herself as she didn't see a future with Hamlet.
+
+![ophelia1](/media/ophelia1.JPG)
+![ophelia2](/media/ophelia2.JPG)
