@@ -5,12 +5,15 @@ I think a lot of this can be achieved by borrowing common interfaces and signs w
 
 
 **The message bubble**
+
 ![message bubble](/media/messagebubble.gif)
 
 
 **Traffic light**
+
 ![traffic light](/media/trafficlight.gif)
 
 
 **The simplest version of emojis changing in a fluid way**
+
 ![emoji](/media/emoji.gif)
