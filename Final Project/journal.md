@@ -27,7 +27,7 @@ My robot will play the two lead characters - the female and the male. By filming
   - Set (if any)
     - My living room, in front of the fireplace
     
-    ![fireplace](/media/fireplace.JPEG)
+    ![fireplace](/media/fireplace.JPG)
     
   - Lighting (if any)
     - Considering to light the fireplace. Otherwise imitate a fireplace effect.
