@@ -2,7 +2,7 @@
 
 - Select a song or poem, and outline the story line for your performance
 
-**Song idea:** *Baby It's Cold Outside* by Idina Menzel and Michael Bublé (until the end of the first chorus).
+**Song idea:** [Baby It's Cold Outside](https://www.youtube.com/watch?v=6bbuBubZ1yE) by Idina Menzel and Michael Bublé (until the end of the first chorus).
 
 - Consider which character (or characters) your robot will play
 
