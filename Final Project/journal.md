@@ -16,10 +16,16 @@ My robot will play the two lead characters - the female and the male. By filming
 - What will be the technical requirements (movements, graphics, sound)
   - small movements since the two robots will be playing two lovers having a conversation
     - little turns left and right, back and forth
+  - sound will be the song, which will be broken up into a dialogue between the two characters
+    - this can come from my computer or added afterwards to the video when editing
+  - still not sure if I want to use any visuals
+    - potentially could use a graphic on the female character to express that she is cold
 - How will you get around the technical limitations we've discussed (imprecise movements, poor quality sound, etc.)
+  - Sound: I will add it to the video, when editing
+  - Imprecise movements: I will use small movements (since it is a conversation), leave enough space for the robots and plan the scene so that an imprecise movement won't be obviously out of place
 - Consider the staging
   - Set (if any)
+    - My living room, next to the fireplace
   - Lighting (if any)
-  - Greenscreen and alternate background (if any)
-- Consider the action
+    - Considering to light the fireplace. Otherwise imitate a fireplace effect.
 
