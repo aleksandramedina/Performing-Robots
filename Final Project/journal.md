@@ -25,7 +25,9 @@ My robot will play the two lead characters - the female and the male. By filming
   - Imprecise movements: I will use small movements (since it is a conversation), leave enough space for the robots and plan the scene so that an imprecise movement won't be obviously out of place
 - Consider the staging
   - Set (if any)
-    - My living room, next to the fireplace
+    - My living room, in front of the fireplace
+    ![fireplace](/media/fireplace.JPEG)
+    
   - Lighting (if any)
     - Considering to light the fireplace. Otherwise imitate a fireplace effect.
 
