@@ -31,4 +31,20 @@ My robot will play the two lead characters - the female and the male. By filming
     
   - Lighting (if any)
     - Considering to light the fireplace. Otherwise imitate a fireplace effect.
+    
+    
+## November 16 - in class feedback session
+
+- Why am I presenting this through robots?
+
+To present the controversy around the song and the sentiment of a classic Christmas song by removing the painful historic context of human genders.
+
+- Action represnts emotion
+- Context of the two machines
+  - Juxtaposing the coziness of the background (represeting the general love people still have towards the song) and the bleakness, metallic look of the robots (the #MeToo movement)
+  - romantic comedy situation
+    - exploring the #MeToo movement through robots: Why can't the robot leave?
+      - its cable is tangled
+      - the battery is dead
+      - the code is broken
 
