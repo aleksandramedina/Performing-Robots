@@ -10,7 +10,7 @@ line together; adding up to 1 minute 15 seconds.
 
 **Lighting:** lit fire place, the ceiling light (just to make sure it's not completely dark) and a table lamp for extra dramatic shadows.
 
-Robot:
+**Robot:**
 - costume: done
 - display: prints error messages as 'emotions', e.g. when the female voice sings about being worried, the display would say: "error: no comfort found"
 - movement: imitating the little dance / shuffle movements of the original video. At the end the robots get physically stuck together so one of them physically can't leave (or an error message is printed: "error: the temparature is too low, cannot operate"
