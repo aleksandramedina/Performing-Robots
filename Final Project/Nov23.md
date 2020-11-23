@@ -24,27 +24,27 @@ I really can't stay
 
 Baby, it's cold outside
 
-I've got to go away **< error message 1**
+I've got to go away **<- error message 1**
 
 Baby, it's cold outside
 
 This evening has been
 
-Been hoping that you'd drop in
+Been hoping that you'd drop in **<- message "mission successful"**
 
-So very nice
+So very nice 
 
 I'll hold your hands, they're just like ice
 
-My mother will start to worry
+My mother will start to worry 
 
-Beautiful, what's your hurry?
+Beautiful, what's your hurry? **<- message: "problem detected"**
 
 My father will be pacing the floor
 
 Listen to that fire place roar
 
-So really I'd better scurry
+So really I'd better scurry **<- message: "can't find safety: abort"**
 
 Beautiful, please don't hurry
 
@@ -58,7 +58,7 @@ Baby, it's bad out there
 
 Say what's in this drink?
 
-No cabs to be had out there
+No cabs to be had out there **<-**
 
 I wish I knew how
 
