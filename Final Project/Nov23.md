@@ -24,13 +24,13 @@ I really can't stay
 
 Baby, it's cold outside
 
-I've got to go away **<- error message 1**
+I've got to go away **<- Message: "Something seems wrong."**
 
 Baby, it's cold outside
 
 This evening has been
 
-Been hoping that you'd drop in **<- message "mission successful"**
+Been hoping that you'd drop in **<- message: "mission successful"**
 
 So very nice 
 
@@ -48,17 +48,17 @@ So really I'd better scurry **<- message: "can't find safety: abort"**
 
 Beautiful, please don't hurry
 
-But maybe just a half a drink more
+But maybe just a half a drink more **<- Error: Low on battery.**
 
-I'll put some records on while I pour
+I'll put some records on while I pour **<- message: "Error 1: resolved"**
 
 The neighbors might think
 
 Baby, it's bad out there
 
-Say what's in this drink?
+Say what's in this drink? **<- Error: Power source seems incompatible.**
 
-No cabs to be had out there **<-**
+No cabs to be had out there 
 
 I wish I knew how
 
@@ -70,9 +70,9 @@ I'll take your hat, your hair looks swell
 
 I ought to say no no no
 
-Mind if I move in closer?
+Mind if I move in closer? **<- message: "Trying forced approach"**
 
-At least i'm gonna say that I tried
+At least i'm gonna say that I tried **<- Error: Stuck in an infinite loop."**
 
 What's the sense in hurting my pride?
 
