@@ -20,17 +20,17 @@ line together; adding up to 1 minute 15 seconds.
 
 **Lyrics:**
 
-I really can't stay
+(0:10) I really can't stay
 
 Baby, it's cold outside
 
-I've got to go away **<- Message: "Something seems wrong."**
+(0:15) I've got to go away **<- Message: "Something seems wrong."**
 
 Baby, it's cold outside
 
 This evening has been
 
-Been hoping that you'd drop in **<- message: "mission successful"**
+(0:20) Been hoping that you'd drop in **<- message: "mission successful"**
 
 So very nice 
 
@@ -38,25 +38,25 @@ I'll hold your hands, they're just like ice
 
 My mother will start to worry 
 
-Beautiful, what's your hurry? **<- message: "problem detected"**
+(0:28) Beautiful, what's your hurry? **<- message: "problem detected"**
 
 My father will be pacing the floor
 
 Listen to that fire place roar
 
-So really I'd better scurry **<- message: "can't find safety: abort"**
+(0:35) So really I'd better scurry **<- message: "can't find safety: abort"**
 
 Beautiful, please don't hurry
 
-But maybe just a half a drink more **<- Error: Low on battery.**
+(0:40) But maybe just a half a drink more **<- Error: Low on battery.**
 
-I'll put some records on while I pour **<- message: "Error 1: resolved"**
+(0:41) I'll put some records on while I pour **<- message: "Error 1: resolved"**
 
 The neighbors might think
 
 Baby, it's bad out there
 
-Say what's in this drink? **<- Error: Power source seems incompatible.**
+(0:48) Say what's in this drink? **<- Error: Power source seems incompatible.**
 
 No cabs to be had out there 
 
@@ -70,9 +70,9 @@ I'll take your hat, your hair looks swell
 
 I ought to say no no no
 
-Mind if I move in closer? **<- message: "Trying forced approach"**
+(01:03) Mind if I move in closer? **<- message: "Trying forced approach"**
 
-At least i'm gonna say that I tried **<- Error: Stuck in an infinite loop."**
+(01:05) At least i'm gonna say that I tried **<- Error: Stuck in an infinite loop."**
 
 What's the sense in hurting my pride?
 
@@ -81,3 +81,5 @@ I really can't stay
 Baby, don't hold out
 
 Baby it's cold outside
+
+(01:17)
