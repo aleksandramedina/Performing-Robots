@@ -20,23 +20,23 @@ line together; adding up to 1 minute 15 seconds.
 
 **Lyrics:**
 
-(0:10) I really can't stay
+(0:10) I really can't stay **<- Male: doesn't move; female slowly comes into the shot (0-15 seconds)**
 
-Baby, it's cold outside
+Baby, it's cold outside **<- Male: wiggles**
 
-(0:15) I've got to go away **<- Message: "Something seems wrong."**
+(0:15) I've got to go away **<- Message: "Something seems wrong." female: turns 180 degrees** 
 
-Baby, it's cold outside
+Baby, it's cold outside **<- Male: wiggles**
 
 This evening has been
 
-(0:20) Been hoping that you'd drop in **<- message: "mission successful"**
+(0:20) Been hoping that you'd drop in **<- message: "mission successful" male: wiggles**
 
 So very nice 
 
 I'll hold your hands, they're just like ice
 
-My mother will start to worry 
+My mother will start to worry **<- female goes back & forth**
 
 (0:28) Beautiful, what's your hurry? **<- message: "problem detected"**
 
@@ -44,15 +44,15 @@ My father will be pacing the floor
 
 Listen to that fire place roar
 
-(0:35) So really I'd better scurry **<- message: "can't find safety: abort"**
+(0:35) So really I'd better scurry **<- message: "can't find safety: abort" female: stops **
 
-Beautiful, please don't hurry
+Beautiful, please don't hurry **<- male: goes straight**
 
-(0:40) But maybe just a half a drink more **<- Error: Low on battery.**
+(0:40) But maybe just a half a drink more **<- Error: Low on battery. female start slowly turning / changing directions**
 
-(0:41) I'll put some records on while I pour **<- message: "Error 1: resolved"**
+(0:41) I'll put some records on while I pour **<- message: "Error 1: resolved" male: wiggles**
 
-The neighbors might think
+The neighbors might think **female "paces"**
 
 Baby, it's bad out there
 
@@ -70,9 +70,9 @@ I'll take your hat, your hair looks swell
 
 I ought to say no no no
 
-(01:03) Mind if I move in closer? **<- message: "Trying forced approach"**
+(01:03) Mind if I move in closer? **<- message: "Trying forced approach" male: goes forward**
 
-(01:05) At least i'm gonna say that I tried **<- Error: Stuck in an infinite loop."**
+(01:05) At least i'm gonna say that I tried **<- Error: Stuck in an infinite loop." female starts spinning faster**
 
 What's the sense in hurting my pride?
 
