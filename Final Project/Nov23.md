@@ -38,7 +38,7 @@ I'll hold your hands, they're just like ice
 
 My mother will start to worry **<- female goes back & forth**
 
-(0:28) Beautiful, what's your hurry? **<- message: "problem detected"**
+(0:32) Beautiful, what's your hurry? **<- message: "problem detected"**
 
 My father will be pacing the floor
 
@@ -50,7 +50,7 @@ Beautiful, please don't hurry **<- male: goes straight**
 
 (0:40) But maybe just a half a drink more **<- Error: Low on battery. female start slowly turning / changing directions**
 
-(0:41) I'll put some records on while I pour **<- message: "Error 1: resolved" male: wiggles**
+(0:43) I'll put some records on while I pour **<- message: "Error 1: resolved" male: wiggles**
 
 The neighbors might think **female "paces"**
 
@@ -70,7 +70,7 @@ I'll take your hat, your hair looks swell
 
 I ought to say no no no
 
-(01:03) Mind if I move in closer? **<- message: "Trying forced approach" male: goes forward**
+(01:05) Mind if I move in closer? **<- message: "Trying forced approach" male: goes forward**
 
 (01:05) At least i'm gonna say that I tried **<- Error: Stuck in an infinite loop." female starts spinning faster**
 
