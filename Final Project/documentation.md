@@ -108,7 +108,7 @@ The set was illuminated by four light sources:
 
 **Stage light**
 
-![Stage light](/floorlamp.JPG)
+![Stage light](floorlamp.JPG)
 
 **Spot light**
 
