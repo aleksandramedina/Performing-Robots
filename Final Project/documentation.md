@@ -108,11 +108,11 @@ The set was illuminated by four light sources:
 
 **Stage light**
 
-![Stage light](/media/floorlamp.JPG)
+![Stage light](/floorlamp.JPG)
 
 **Spot light**
 
-![Spotlight](/media/spotlight.JPG)
+![Spotlight](/spotlight.JPG)
 
 **Filming**
 
@@ -125,7 +125,7 @@ All of the filming was done in four takes:
 
 The set-up while filming the two movement videos included a GoPro camera put on top of a stack of books.
 
-![set](/media/set.JPG)
+![set](/set.JPG)
 
 ### The obstacles
 
