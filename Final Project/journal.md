@@ -51,5 +51,5 @@ To present the controversy around the song and the sentiment of a classic Christ
       
 ## December 7 - dress rehearsal
 
-[A robot Christmas](https://drive.google.com/file/d/1SAyb1AjaHAOnbtGzKBP4eyQ3-IJclRKQ/view?usp=sharing)
+[A Robot Christmas](https://drive.google.com/file/d/1SAyb1AjaHAOnbtGzKBP4eyQ3-IJclRKQ/view?usp=sharing)
 
