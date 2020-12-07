@@ -129,6 +129,15 @@ The set-up while filming the two movement videos included a GoPro camera put on 
 
 ### The obstacles
 
+One thing that I still didn't figure out was how to have the OLED code run together at the same time with the motor code. However, it didn't hurt me in my project as those two footages are kept separate anyways for visibility purposes.
+
+
+I had a LOT of trouble with the motor codes - debugging those took me at least two days. Another struggle was finding the ideal way of showing the two characters played by the same robot and at the same time show the OLED messages. While I did find a solution, I am not 100% happy with it. I think this could have been done better still. 
+
+
+The filming process took an unexpectedly long time too. Of course, the moment I brought out the camera, unexpected bugs and glitches happened to the code. WHile I was dealing with the camera and the placement of the robots, my family members helped with the lighting of the set. 
 
 
 ### Result - thoughts and reflections
+
+I am happy with the overall result. I think I successfully moved from a simple festive mood song to a more sophisticated comedy that includes a strong commentary of the song. WHile I am happy with how the project turned out, the one thing I'd change is the video. Not sure how the one robot playing two separate characters and the single OLED displaying messages from two characters could have been integrated more seamlessly, while still allowing viewers to read the OLED display.
